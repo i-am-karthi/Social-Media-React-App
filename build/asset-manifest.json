@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/i-am-karthi/Social-Media-React-App/static/css/main.269a2e5b.css",
+    "main.js": "/i-am-karthi/Social-Media-React-App/static/js/main.0e69d7f5.js",
+    "index.html": "/i-am-karthi/Social-Media-React-App/index.html",
+    "main.269a2e5b.css.map": "/i-am-karthi/Social-Media-React-App/static/css/main.269a2e5b.css.map",
+    "main.0e69d7f5.js.map": "/i-am-karthi/Social-Media-React-App/static/js/main.0e69d7f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.269a2e5b.css",
+    "static/js/main.0e69d7f5.js"
+  ]
+}
